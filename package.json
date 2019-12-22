@@ -1,0 +1,28 @@
+{
+  "name": "estilo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d estilo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-okojere/Estilo-Beads.git"
+  },
+  "keywords": [
+    "latest",
+    "bead",
+    "design",
+    "2019"
+  ],
+  "author": "john okojere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-okojere/Estilo-Beads/issues"
+  },
+  "homepage": "https://github.com/john-okojere/Estilo-Beads/estilo/dist/index.html",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
