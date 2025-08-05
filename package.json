@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/john-okojere/Estilo-Beads/estilo/index.html",
   "dependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^5.0.0"
   }
 }
